@@ -252,10 +252,16 @@ Some components are still under active development and currently don’t fully a
 ---
 
 ### ⏳ Planned
-- ⏳ `emotional_inference`: Advanced emotional analysis from conversations and trends  
-- ⏳ `personality_adapter`: Evolving Phoebe’s tone and behavior based on memory and relationships  
-- ⏳ `evaluation_logs`: Monitoring behavioral and memory effects for debugging and improvements  
-- ⏳ `prompt_finetuning`: Refining prompts to create more natural and human-like dialogue  
+
+- ⏳ Move Phoebe to a cloud-based, more continuously running setup  
+- ⏳ Gradually improve memory and relationship models to be more realistic and consistent  
+- ⏳ Make small dialogue improvements based on user feedback  
+- ⏳ Step-by-step increase response speed and system stability  
+- ⏳ Experiment with prompts to make them more natural and true to Phoebe’s character  
+- ⏳ Enhance Phoebe’s ability to share well-timed, personality-driven visual GIFs during conversations—reflecting emotions like shyness, focus on self, hesitation, or playful rejection—without overdoing it  
+- ⏳ Develop Phoebe’s capacity to create immersive moments and atmospheres in conversation (e.g., describing gentle wind blowing, holding hands, or walking by the harbor) to evoke feelings beyond just words and make interactions more vivid and memorable
+- ⏳ Start developing a simple but effective user interface (web or outside Discord)  
+
 
 
 ## 📖 Lore & Inspiration
