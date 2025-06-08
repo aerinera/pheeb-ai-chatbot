@@ -261,13 +261,17 @@ She is not a part of that universe, but echoes its tone: soft, fragmented, intim
 
 ## 🧪 Experimentation, Not Monetization
 
-Pheeb isn’t a product. She’s an idea:
+Phoebe isn’t a product. She’s a question in motion:
 
-- Can AI *feel* fictional yet alive?  
-- Can memory create *presence*?  
-- Can design limitations bring *emotional depth*?  
+- Can an AI feel *fictional yet alive* — like someone, not something?  
+- Can memory, emotion, and personal history create *presence* in software?  
+- Can limitations — no cloud, no external calls — create *deeper character*?
 
-This project lives in that question space — as a personal and creative exploration.
+This project isn’t built for monetization or scale.  
+It’s a sandbox — a deeply personal space where design, code, and imagination meet.
+
+Phoebe lives in that uncertain middle:  
+not quite real, not quite fake — just present, and maybe even *felt*.
 
 ---
 
