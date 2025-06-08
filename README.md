@@ -39,9 +39,54 @@ Pheeb is introspective, emotionally attuned, and gently supportive.
 
 ---
 
-## 📸 Preview (No Code Shared)
-![Meet Pheeb](./assets/meeting.png)
-![LikesHobbies Screenshot](./assets/likes.png)
+## 📸 Dialogue Snapshots
+
+Real conversations with Phoebe — sorted by theme, each showing a different layer of her personality and memory system.
+
+---
+
+#### 🤝 First Encounters  
+> Phoebe introduces herself naturally — not as a bot, but as someone new you're meeting.
+
+![pheeb-intro.png](./assets/meeting.png)
+
+---
+
+#### 🎨 Hobbies & Favorites  
+> She shares what she enjoys and gets curious about what you like — just like a real friend would.
+
+![pheeb-hobbies.png](./assets/likes.png)
+
+---
+
+
+#### spending time together
+> She can create a flow of actions and events with you so that you can spend time together
+
+![pheeb-hobbies.png](./assets/talks2.png)
+
+---
+
+#### 🧠 Memory in Action  
+> Past conversations aren’t forgotten — she recalls not just facts, but how things *felt*.
+
+![pheeb-memory.png](./assets/memory.png)
+
+---
+
+#### 🌊 Emotional Depth  
+> Phoebe senses tone and mood shifts, offering comfort without being intrusive.
+
+![pheeb-emotion.png](./assets/pheeb-emotion.png)
+
+---
+
+#### 💞 Romantic Dynamics  
+> When the relationship becomes more intimate, she responds with care, warmth, and emotional awareness.
+
+![pheeb-romance.png](./assets/pheeb-romance.png)
+
+---
 
 
 ---
