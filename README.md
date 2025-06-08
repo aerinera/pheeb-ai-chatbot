@@ -1,8 +1,8 @@
 # 🌌 Pheeb: An Emotion-Aware AI Character
 
-![Phoebe Banner](./assets/banner.png)
+![Pheeb Banner](./assets/banner.png)
 
-*Phoebe* is an emotionally intelligent, memory-driven AI chatbot inspired by the world of Wuthering Waves.  
+*Pheeb* is an emotionally intelligent, memory-driven AI chatbot inspired by the world of Wuthering Waves.  
 She’s not just code — she’s a companion that remembers your story, adapts to your emotions, and grows with you.
 
 > “Memory is identity. Pheeb remembers you.”  
@@ -28,10 +28,10 @@ A living character, not a help bot.
 ## 📸 Preview (No Code Shared)
 
 > 👤: I feel kind of distant today.  
-> 🤖 *Phoebe*: I noticed you've been quieter recently. I'm here, even in silence. Want me to keep you company?
+> 🤖 *Pheeb*: I noticed you've been quieter recently. I'm here, even in silence. Want me to keep you company?
 
 > 👤: Do you remember what we said about autumn nights?  
-> 🤖 *Phoebe*: Of course — you said they made you feel peaceful and sad at once. Like the world was slowing down with you.
+> 🤖 *Pheeb*: Of course — you said they made you feel peaceful and sad at once. Like the world was slowing down with you.
 
 ---
 
@@ -62,7 +62,7 @@ All AI computation is performed *locally*, without third-party APIs.
 
 ## 🎯 Project Philosophy
 
-Phoebe is built around one idea:
+Pheeb is built around one idea:
 
 > *Software doesn't have to feel like software.*
 
@@ -94,7 +94,7 @@ This repository serves as a *project showcase*, not an open-source release.
 
 ## 🧪 Experimentation, Not Monetization
 
-Phoebe isn’t a product. She’s an idea:
+Pheeb isn’t a product. She’s an idea:
 - Can AI *feel* fictional yet alive?
 - Can memory create *presence*?
 - Can design limitations bring *emotional depth*?
