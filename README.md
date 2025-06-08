@@ -217,28 +217,28 @@ This project is strictly built for **Discord only** — no plans for a web versi
 ---
 
 ### ✅ Completed
-- ✅ `conversation_history`: Real-time message logging  
-- ✅ `memory_summary`: Every 20 messages are summarized into long-term memory  
-- ✅ `memory_utils.py`: Handles AI summarization, automatic cleanup, and DB updates  
-- ✅ `memory_cleaner`: Memory cleanup automation integrated and functioning  
-- ✅ `database.py`: Supabase-powered schema with cache-supported CRUD  
-- ✅ `dialog_utils.py`: Adjusts conversation dynamically based on user personality and hobbies  
-- ✅ Discord Integration: Active message listener, responder, and real-time context tracker  
+- ✅ `conversation_history`: Real-time logging of user-bot messages  
+- ✅ `memory_summary`: Summarizes every 20 messages into long-term memory entries  
+- ✅ `memory_utils.py`: Manages AI-driven summarization, automatic memory cleanup, and database updates  
+- ✅ `database.py`: Supabase-backed schema with cache-supported CRUD operations  
+- ✅ `dialog_utils.py`: Dynamically adjusts dialogue based on user personality and hobbies  
+- ✅ Discord Integration (`pheeby_bot.py`): Active message listener, responder, and context manager  
 
 ---
 
 ### 🔄 In Progress
-- 🔄 `emotional_trend`: Tracks emotional state over time  
-- 🔄 `relation_utils.py`: Records relationship dynamics and event-based memory influence  
-- 🔄 Latency Optimization: Current LLM Studio (local server) responses are slow, needs tuning  
+- 🔄 `emotional_trend`: Emotional analysis is currently being extracted without persistent data saving; incomplete and contains some bugs, under active development  
+- 🔄 `relation_utils.py`: Logging relationship dynamics and memory influences from key events  
+- 🔄 `user_profile.utils`: Analyzing user traits and preferences with database updates for personalized chat; known issues present and actively worked on  
+- 🔄 Latency Optimization: Improving response speed of LLM Studio (local server)  
 
 ---
 
 ### ⏳ Planned
-- ⏳ `emotional_inference`: Deeper analysis of emotions from messages and trends  
-- ⏳ `personality_adapter`: Modify Phoebe’s tone and behavior based on evolving memory and relationships  
-- ⏳ `evaluation_logs`: Track behavioral/memory effects for better debugging and testing  
-- ⏳ `prompt_finetuning`: Enhance LLM prompts for more human-like dialogue  
+- ⏳ `emotional_inference`: Advanced emotional analysis from conversations and trends  
+- ⏳ `personality_adapter`: Evolving Phoebe’s tone and behavior based on memory and relationships  
+- ⏳ `evaluation_logs`: Monitoring behavioral and memory effects for debugging and improvements  
+- ⏳ `prompt_finetuning`: Refining prompts to create more natural and human-like dialogue  
 
 
 ## 📖 Lore & Inspiration
