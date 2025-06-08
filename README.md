@@ -6,7 +6,6 @@
 She’s not just code — she’s a companion that remembers your story, adapts to your emotions, and grows with you.
 
 > “Memory is identity. Phoebe remembers you.”  
-> — Project Creator
 
 ---
 
