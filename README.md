@@ -245,6 +245,7 @@ Some components are still under active development and currently don’t fully a
 - `relation_utils.py`: Algorithms for tracking relationship levels and dynamics are being built but aren’t performing as expected yet.  
 - Response latency: Delays occur in replies from the LLM Studio model; speed optimizations are underway.  
 - Character consistency: Phoebe sometimes struggles to fully embody her designed personality, occasionally producing overly flattering or excessively long responses that don’t feel true to her character or appropriately reflect relationship context. Work is ongoing to make her tone more natural, concise, and faithful to her unique identity.
+- Implementing proactive guidance for users exhibiting indecision, enabling the character to respond with personality-driven suggestions instead of remaining passive.
 
 > I'm carefully working through these issues to ensure Phoebe behaves consistently, naturally, and true to her character.
 
