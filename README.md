@@ -1,6 +1,6 @@
 # 🌌 Pheeb: An Emotion-Aware AI Character
 
-![Pheeb Banner](./assets/banner.png)
+![Pheeb Banner](./assets/pheebbanner.jpg)
 
 *Pheeb* is an emotionally intelligent, memory-driven AI chatbot inspired by the world of Wuthering Waves.  
 She’s not just code — she’s a companion that remembers your story, adapts to your emotions, and grows with you.
