@@ -48,7 +48,7 @@ Pheeb is introspective, emotionally attuned, and gently supportive.
 > 🤖 *Pheeb*: Of course — you said they made you feel peaceful and sad at once. Like the world was slowing down with you.
 
 ![Conversation Screenshot](./assets/pheeb_chat.png)
-![Memory Summary Screenshot](./assets/pheeb_memory.png)
+![Memory Summary Screenshot](./assets/memory.png)
 
 ---
 
