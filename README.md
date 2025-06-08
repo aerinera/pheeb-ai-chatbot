@@ -169,15 +169,16 @@ Real conversations with Phoebe — sorted by theme, each showing a different lay
 
 ## ⚙ Technologies Behind Phoebe
 
-| Stack Element     | Description |
-|-------------------|-------------|
-| *Python 3.13+*   | Core logic & data processing |
-| *Supabase*       | PostgreSQL backend for all memory and emotional data |
-| *Nous Hermes 2.5*| Local LLM for summarization and response generation |
-| *Discord API*    | (Optional) Chat interface layer |
-| *Asyncio*        | High-performance concurrent messaging |
+| Stack Element       | Description                                               |
+|---------------------|-----------------------------------------------------------|
+| *Python 3.13+*      | Core application logic, data handling, and utility modules|
+| *Supabase*          | PostgreSQL backend accessed asynchronously via API for managing conversation history, memory summaries, emotional trends, and user profiles |
+| *Nous Hermes 2.5*   | Locally hosted LLM running on LLM Studio for text summarization, emotional analysis, and dialogue generation |
+| *Discord API*       | Real-time chat interface enabling interaction between users and Phoebe bot |
+| *Asyncio*           | Asynchronous event loop for efficient, concurrent message processing |
+| *HTTPX*             | Async HTTP client used to communicate with the local LLM Studio server |
 
-All AI computation is performed *locally*, without third-party APIs.
+All AI processing is executed *locally* on the LLM Studio server without relying on external or third-party AI services.
 
 ---
 
