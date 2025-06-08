@@ -214,27 +214,6 @@ She exists to *relate*, *respond*, and *remember you*. Like a person would.
 This is **AI as character**, not assistant.
 
 
-## 🔒 About This Repository
-
-This repository is intended as a *project showcase*, not a public open-source release.
-
-Phoebe wasn’t built for commercial goals —  
-she was born out of curiosity, late-night ideas, and way too many hours of passionate tinkering.
-
-All AI processing happens entirely *locally* — no cloud, no external APIs.  
-Because of that, much of the code is deeply connected to personal privacy,  
-emotional state modeling, and architectural decisions that are not easily abstracted.
-
-- The *source code remains private* to preserve that intimacy and creative design  
-- A demo or technical walkthrough is available upon request (portfolio or invite-based)  
-- Local-first by nature — memory, emotion, and presence matter here
-
-That said, who knows what the future holds?  
-If Phoebe ever grows into something bigger with proper support and a wider purpose,  
-I’d love to revisit the idea of opening her up to the world.
-
-Thanks for understanding — truly💛.
-
 ## 🛠 Task List (Phoebe Project Dev Status)
 
 **Phoebe is a single-character AI.**  
@@ -291,3 +270,24 @@ Pheeb isn’t a product. She’s an idea:
 This project lives in that question space — as a personal and creative exploration.
 
 ---
+
+## 🔒 About This Repository
+
+This repository is intended as a *project showcase*, not a public open-source release.
+
+Phoebe wasn’t built for commercial goals —  
+she was born out of curiosity, late-night ideas, and way too many hours of passionate tinkering.
+
+All AI processing happens entirely *locally* — no cloud, no external APIs.  
+Because of that, much of the code is deeply connected to personal privacy,  
+emotional state modeling, and architectural decisions that are not easily abstracted.
+
+- The *source code remains private* to preserve that intimacy and creative design  
+- A demo or technical walkthrough is available upon request (portfolio or invite-based)  
+- Local-first by nature — memory, emotion, and presence matter here
+
+That said, who knows what the future holds?  
+If Phoebe ever grows into something bigger with proper support and a wider purpose,  
+I’d love to revisit the idea of opening her up to the world.
+
+Thanks for understanding — truly💛.
