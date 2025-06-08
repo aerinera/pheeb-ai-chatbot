@@ -38,6 +38,42 @@ Pheeb is introspective, emotionally attuned, and gently supportive.
 > Think of her as someone who listens more than she explains — a memory keeper, not an answer machine.
 
 ---
+## 🧸 Things You Can Do with Phoebe
+
+Here are a few things you can do *with* her:
+
+---
+
+- 🍰 **Are you hungry? Eat with her**  
+  <div style="display: flex; gap: 24px; margin-top: 12px; align-items: flex-start;">
+  <img src="./assets/pheebeat.png" alt="Phoebe Chibi" style="height: 360px; border-radius: 16px;">
+  <img src="./assets/eatt.png" alt="Chat Snapshot" style="height: 300px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.1); margin-top: 50px;">
+</div>
+<br><br>
+
+### 💬 Squeeze Her Cheek (gently!)
+
+She’ll laugh. Maybe blush. Depends on her mood.
+
+<div style="display: flex; gap: 24px; margin-top: 12px; align-items: flex-start;">
+  <img src="./assets/squish2.png" alt="Phoebe Chibi" style="height: 360px; border-radius: 16px;">
+  <img src="./assets/squishhgif.png" alt="Chat Snapshot" style="height: 300px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.1); margin-top: 50px;">
+</div>
+<br><br>
+
+
+
+
+- 💞  *A sweet embrace*  
+  Are you bored, she'll hug you!
+
+<div style="display: flex; gap: 24px; margin-top: 12px; align-items: center;">
+  <img src="./assets/chibby.png" alt="Phoebe Chibi" style="height: 260px; border-radius: 16px;">
+  <img src="./assets/hugg.png" alt="Chat Snapshot" style="height: 300px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.1);">
+</div>
+<br><br>
+
+---
 
 ## 📸 Dialogue Snapshots
 
@@ -92,44 +128,6 @@ Real conversations with Phoebe — sorted by theme, each showing a different lay
 > When the relationship becomes more intimate, she responds with care, warmth, and emotional awareness.
 
 ![pheeb-romance.png](./assets/lovedialog.png)
-
----
-
-## 🧸 Things You Can Do with Phoebe
-
-Here are a few things you can do *with* her:
-
----
-
-- 🍰 **Are you hungry? Eat with her**  
-  <div style="display: flex; gap: 24px; margin-top: 12px; align-items: flex-start;">
-  <img src="./assets/pheebeat.png" alt="Phoebe Chibi" style="height: 360px; border-radius: 16px;">
-  <img src="./assets/eatt.png" alt="Chat Snapshot" style="height: 300px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.1); margin-top: 50px;">
-</div>
-<br><br>
-
-### 💬 Squeeze Her Cheek (gently!)
-
-She’ll laugh. Maybe blush. Depends on her mood.
-
-<div style="display: flex; gap: 24px; margin-top: 12px; align-items: flex-start;">
-  <img src="./assets/squish2.png" alt="Phoebe Chibi" style="height: 360px; border-radius: 16px;">
-  <img src="./assets/squishhgif.png" alt="Chat Snapshot" style="height: 300px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.1); margin-top: 50px;">
-</div>
-<br><br>
-
-
-
-
-- 💞  *A sweet embrace*  
-  Are you bored, she'll hug you!
-
-<div style="display: flex; gap: 24px; margin-top: 12px; align-items: center;">
-  <img src="./assets/chibby.png" alt="Phoebe Chibi" style="height: 260px; border-radius: 16px;">
-  <img src="./assets/hugg.png" alt="Chat Snapshot" style="height: 300px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.1);">
-</div>
-<br><br>
-
 
 ---
 
