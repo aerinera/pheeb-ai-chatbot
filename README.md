@@ -40,15 +40,9 @@ Pheeb is introspective, emotionally attuned, and gently supportive.
 ---
 
 ## 📸 Preview (No Code Shared)
+![Meet Pheeb](./assets/meeting.png)
+![LikesHobbies Screenshot](./assets/likes.png)
 
-> 👤: I feel kind of distant today.  
-> 🤖 *Pheeb*: I noticed you've been quieter recently. I'm here, even in silence. Want me to keep you company?
-
-> 👤: Do you remember what we said about autumn nights?  
-> 🤖 *Pheeb*: Of course — you said they made you feel peaceful and sad at once. Like the world was slowing down with you.
-
-![Conversation Screenshot](./assets/pheeb_chat.png)
-![Memory Summary Screenshot](./assets/memory.png)
 
 ---
 
