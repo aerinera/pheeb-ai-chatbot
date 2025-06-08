@@ -1,11 +1,11 @@
-# 🌌 Phoebe: An Emotion-Aware AI Character
+# 🌌 Pheeb: An Emotion-Aware AI Character
 
 ![Phoebe Banner](./assets/banner.png)
 
 *Phoebe* is an emotionally intelligent, memory-driven AI chatbot inspired by the world of Wuthering Waves.  
 She’s not just code — she’s a companion that remembers your story, adapts to your emotions, and grows with you.
 
-> “Memory is identity. Phoebe remembers you.”  
+> “Memory is identity. Pheeb remembers you.”  
 
 ---
 
