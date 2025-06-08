@@ -75,8 +75,9 @@ She’ll laugh. Maybe blush. Depends on her mood.
 
 
 -   ### Chat with her 
-she can talk to you about anything and she doesn't forget you and she has a structure that remembers your conversations and
-reacts according to your relationship status and your emotions, can make emotional analysis and approaches you accordingly
+  She can talk to you about anything — and she doesn’t forget you.  
+  Phoebe remembers past conversations, reacts to your emotional state,  
+  and adapts based on your relationship history.
 
 <div style="display: flex; gap: 24px; margin-top: 12px; align-items: center;">
   <img src="./assets/pheeb1.png" alt="Phoebe" style="height: 400px; border-radius: 16px;">
@@ -106,7 +107,7 @@ Real conversations with Phoebe — sorted by theme, each showing a different lay
 ---
 
 
-#### spending time together
+#### Spending Time Together
 > She can create a flow of actions and events with you so that you can spend time together
 
 ![pheeb-hobbies.png](./assets/talks2.png)
@@ -121,20 +122,20 @@ Real conversations with Phoebe — sorted by theme, each showing a different lay
 ---
 
 #### 🌊 Emotional Depth  
-> Phoebe senses tone and mood shifts, offering comfort without being intrusive.
+> Pheeb senses tone and mood shifts, offering comfort without being intrusive.
 
 ![pheeb-emotion.png](./assets/chat3.png)
 
 ---
 
 ### Emotional depth - intimacy according to relationship level
-> Phoebe has an emotionally deep and poetic language, and depending on your level of relationship with her, she may be more affectionate in the way she speaks to you
+> Pheeb has an emotionally deep and poetic language, and depending on your level of relationship with her, she may be more affectionate in the way she speaks to you
 
 ![pheeb-emotion.png](./assets/chat4.png)
 
 ---
 
-#### 💞 Romantic Dynamics  
+#### 💗 Emotional Intimacy by Relationship Level
 > When the relationship becomes more intimate, she responds with care, warmth, and emotional awareness.
 
 ![pheeb-romance.png](./assets/lovedialog.png)
