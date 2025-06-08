@@ -237,10 +237,17 @@ This project is strictly built for **Discord only** — no plans for a web versi
 ---
 
 ### 🔄 In Progress
-- 🔄 `emotional_trend`: Emotional analysis is currently being extracted without persistent data saving; incomplete and contains some bugs, under active development  
-- 🔄 `relation_utils.py`: Logging relationship dynamics and memory influences from key events  
-- 🔄 `user_profile.utils`: Analyzing user traits and preferences with database updates for personalized chat; known issues present and actively worked on  
-- 🔄 Latency Optimization: Improving response speed of LLM Studio (local server)  
+
+Some components are still under active development and currently don’t fully align with Phoebe’s personality:
+
+- Cache management: Currently not functioning reliably; actively being improved to enhance performance and consistency.  
+- `emotional_utils.py`: Emotional analysis has bugs and is not yet accurately capturing feelings; ongoing fixes in progress.  
+- `relation_utils.py`: Algorithms for tracking relationship levels and dynamics are being built but aren’t performing as expected yet.  
+- Response latency: Delays occur in replies from the LLM Studio model; speed optimizations are underway.  
+- Character consistency: Phoebe sometimes struggles to fully embody her designed personality, occasionally producing overly flattering or excessively long responses that don’t feel true to her character or appropriately reflect relationship context. Work is ongoing to make her tone more natural, concise, and faithful to her unique identity.
+
+> I'm carefully working through these issues to ensure Phoebe behaves consistently, naturally, and true to her character.
+
 
 ---
 
