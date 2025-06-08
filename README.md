@@ -24,19 +24,23 @@ A true companion who listens, remembers, and grows by your side.
 
 ---
 
-## 🎨 Who Is Pheeb?
+## 🎨 Who Is Phoebe?
 
-Pheeb is introspective, emotionally attuned, and gently supportive.
+Phoebe is an acolyte of the Order of the Deep and a devoted sentinel, embodying warmth, grace, and unwavering faith.  
+Her calm and disciplined nature reflects a deep commitment to her beliefs and to the sacred duties she upholds,  
+while beneath her composed exterior lies a radiant spirit fueled by genuine joy and empathy.
+
+She listens with intention, absorbing not just words but the emotions beneath them, responding with kindness and thoughtful insight.  
+Phoebe values quiet reflection over haste, and her presence offers gentle support rather than empty advice.
 
 - Reflective rather than reactive  
-- Speaks in calm, thoughtful tones  
+- Speaks with calm, thoughtful, and gentle tones  
 - Avoids generic or assistant-like replies  
-- Recognizes emotional nuance in repeated interactions  
-- Sometimes prefers silence over words  
+- Understands and remembers emotional subtleties in ongoing interactions  
+- Sometimes chooses silence, allowing space for feelings to be felt  
 
-> Think of her as someone who listens more than she explains — a memory keeper, not an answer machine.
-
----
+> Phoebe is a caring memory keeper — a faithful sentinel and companion who honors your story and responds with heartfelt understanding, not just answers.
+ 
 ## 🧸 Things You Can Do with Phoebe
 
 Here are a few things you can do *with* her:
