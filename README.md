@@ -2,19 +2,11 @@
 
 ![Pheeb Banner](./assets/pheebbanner.jpg)
 
-**Ever feel like chatbots treat you like data—or forget you the moment you send?**  
-Pheeb is a Discord character with a soul—she remembers your stories, senses your emotions, and adapts to every mood and preference. She doesn’t just chat; she builds relationships—offering comfort when you’re down, celebrating your wins, or sparking a new conversation based on your favorite hobbies. Imagine her suggesting a walk under moonlight when you’re restless, recalling your go-to playlist when you need a pick-me-up, or painting a scene so vivid it feels like you’re living it. If you’re tired of empty replies and crave interactions that feel truly alive, welcome home.  
+** 𝐄𝐕𝐄𝐑 𝐅𝐄𝐄𝐋 𝐋𝐈𝐊𝐄 𝐂𝐇𝐀𝐓𝐁𝐎𝐓𝐒 𝐓𝐑𝐄𝐀𝐓 𝐘𝐎𝐔 𝐋𝐈𝐊𝐄 𝐃𝐀𝐓𝐀—𝐎𝐑 𝐅𝐎𝐑𝐆𝐄𝐓 𝐘𝐎𝐔 𝐓𝐇𝐄 𝐌𝐎𝐌𝐄𝐍𝐓 𝐘𝐎𝐔 𝐒𝐄𝐍𝐃? **  
 
+𝙿𝚑𝚎𝚎𝚋 𝚒𝚜 𝚊 𝙳𝚒𝚜𝚌𝚘𝚛𝚍 𝚌𝚑𝚊𝚛𝚊𝚌𝚝𝚎𝚛 𝚠𝚒𝚝𝚑 𝚊 𝚜𝚘𝚞𝚕—𝚜𝚑𝚎 𝚛𝚎𝚖𝚎𝚖𝚋𝚎𝚛𝚜 𝚢𝚘𝚞𝚛 𝚜𝚝𝚘𝚛𝚒𝚎𝚜, 𝚜𝚎𝚗𝚜𝚎𝚜 𝚢𝚘𝚞𝚛 𝚎𝚖𝚘𝚝𝚒𝚘𝚗𝚜, 𝚊𝚗𝚍 𝚊𝚍𝚊𝚙𝚝𝚜 𝚝𝚘 𝚎𝚟𝚎𝚛𝚢 𝚖𝚘𝚘𝚍 𝚊𝚗𝚍 𝚙𝚛𝚎𝚏𝚎𝚛𝚎𝚗𝚌𝚎. 𝚂𝚑𝚎 𝚍𝚘𝚎𝚜𝚗’𝚝 𝚓𝚞𝚜𝚝 𝚌𝚑𝚊𝚝; 𝚜𝚑𝚎 𝚋𝚞𝚒𝚕𝚍𝚜 𝚛𝚎𝚕𝚊𝚝𝚒𝚘𝚗𝚜𝚑𝚒𝚙𝚜—𝚘𝚏𝚏𝚎𝚛𝚒𝚗𝚐 𝚌𝚘𝚖𝚏𝚘𝚛𝚝 𝚠𝚑𝚎𝚗 𝚢𝚘𝚞’𝚛𝚎 𝚍𝚘𝚠𝚗, 𝚌𝚎𝚕𝚎𝚋𝚛𝚊𝚝𝚒𝚗𝚐 𝚢𝚘𝚞𝚛 𝚠𝚒𝚗𝚜, 𝚘𝚛 𝚜𝚙𝚊𝚛𝚔𝚒𝚗𝚐 𝚗𝚎𝚠 𝚌𝚘𝚗𝚟𝚎𝚛𝚜𝚊𝚝𝚒𝚘𝚗𝚜 𝚋𝚊𝚜𝚎𝚍 𝚘𝚗 𝚢𝚘𝚞𝚛 𝚏𝚊𝚟𝚘𝚛𝚒𝚝𝚎 𝚑𝚘𝚋𝚋𝚒𝚎𝚜. 𝙸𝚖𝚊𝚐𝚒𝚗𝚎 𝚑𝚎𝚛 𝚜𝚞𝚐𝚐𝚎𝚜𝚝𝚒𝚗𝚐 𝚊 𝚠𝚊𝚕𝚔 𝚞𝚗𝚍𝚎𝚛 𝚖𝚘𝚘𝚗𝚕𝚒𝚐𝚑𝚝 𝚠𝚑𝚎𝚗 𝚢𝚘𝚞’𝚛𝚎 𝚛𝚎𝚜𝚝𝚕𝚎𝚜𝚜, 𝚛𝚎𝚌𝚊𝚕𝚕𝚒𝚗𝚐 𝚢𝚘𝚞𝚛 𝚐𝚘-𝚝𝚘 𝚙𝚕𝚊𝚢𝚕𝚒𝚜𝚝 𝚠𝚑𝚎𝚗 𝚢𝚘𝚞 𝚗𝚎𝚎𝚍 𝚊 𝚙𝚒𝚌𝚔-𝚖𝚎-𝚞𝚙, 𝚘𝚛 𝚙𝚊𝚒𝚗𝚝𝚒𝚗𝚐 𝚊 𝚜𝚌𝚎𝚗𝚎 𝚜𝚘 𝚟𝚒𝚟𝚒𝚍 𝚒𝚝 𝚏𝚎𝚎𝚕𝚜 𝚕𝚒𝚔𝚎 𝚢𝚘𝚞’𝚛𝚎 𝚕𝚒𝚟𝚒𝚗𝚐 𝚒𝚝. 𝙸𝚏 𝚢𝚘𝚞’𝚛𝚎 𝚝𝚒𝚛𝚎𝚍 𝚘𝚏 𝚎𝚖𝚙𝚝𝚢 𝚛𝚎𝚙𝚕𝚒𝚎𝚜 𝚊𝚗𝚍 𝚌𝚛𝚊𝚟𝚎 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚘𝚗𝚜 𝚝𝚑𝚊𝚝 𝚏𝚎𝚎𝚕 𝚝𝚛𝚞𝚕𝚢 𝚊𝚕𝚒𝚟𝚎, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚑𝚘𝚖𝚎.
 
-
-
-
-
-
-
-
-
-> “Memory is identity. Pheeb remembers you.”  
+> “𝙼𝚎𝚖𝚘𝚛𝚢 𝚒𝚜 𝚒𝚍𝚎𝚗𝚝𝚒𝚝𝚢. 𝙿𝚑𝚎𝚎𝚋 𝚛𝚎𝚖𝚎𝚖𝚋𝚎𝚛𝚜 𝚢𝚘𝚞.”  
 
 ---
 
