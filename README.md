@@ -148,16 +148,29 @@ Real conversations with Phoebe — sorted by theme, each showing a different lay
 
 ---
 
-## 🧩 Architecture Overview
+## 🧩 Architecture Overview 
 
-| Layer                  | Purpose |
-|------------------------|---------|
-| conversation_history   | Short-term live context buffer (last ~30 messages) |
-| memory_summary         | Long-term JSON memory: traits, key events, patterns |
-| emotional_trend        | Time-series of detected user emotions |
-| relationship_journal   | Timeline of meaningful interactions & emotional turning points |
+| Table Name           | Purpose / Content                                                  |
+|----------------------|------------------------------------------------------------------|
+| user_profile         | User's basic info, personality traits, preferences, notes, last seen. Persistent user profile data. |
+| conversation_history | Live conversation messages between user and bot, with roles, content, emotion, topics, reply quality. Acts as short-term context buffer (~30 messages). |
+| memory_summary       | AI-generated long-term memory summary in JSON, includes traits, key events, behavioral patterns, and tags. |
+| emotional_trend      | Time-series data of detected user emotions with confidence scores. |
+| relationship_journal | Notes on perceived relationship status and meaningful interactions between user and bot. |
+
+### Data Flow and Usage
+
+1. All messages logged in `conversation_history`.
+2. Emotion analysis results stored in `emotional_trend`.
+3. Periodically, recent conversation history is summarized via AI and saved in `memory_summary`.
+4. User profile info is referenced from `user_profile`.
+5. Relationship dynamics noted in `relationship_journal`.
+6. Bot responses are personalized using memory summary, emotional trends, and relationship notes.
 
 ---
+
+This detailed schema ensures Phoebe maintains a nuanced, evolving, and emotionally aware interaction with each user.
+
 
 ### 🔁 Memory Lifecycle
 
