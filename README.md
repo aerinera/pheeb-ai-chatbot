@@ -173,11 +173,11 @@ Real conversations with Phoebe — sorted by theme, each showing a different lay
 ### 🔁 Memory Lifecycle
 
 1. **Live Chat →** Messages stored in `conversation_history`  
-2. **After 30 Messages →** Trigger summarization via Nous Hermes  
+2. **After 20 Messages →** Trigger summarization using local AI model (`nous-hermes-2-mistral-7b-dpo`)  
 3. **Summary →** Saved in `memory_summary` with traits, patterns, events  
-4. **Old messages →** Pruned from short-term memory  
-5. **Emotions →** Tracked in `emotional_trend` per session  
-6. **Turning Points →** Logged in `relationship_journal` for future callbacks  
+4. **Old Messages →** Pruned from short-term memory (`conversation_history`)  
+5. **Emotions →** Logged in `emotional_trend` as time-stamped emotion snapshots  
+6. **Turning Points →** Logged in `relationship_journal` to track relational dynamics
 
 ---
 
