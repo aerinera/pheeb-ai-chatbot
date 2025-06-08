@@ -9,20 +9,18 @@
 > “𝙼𝚎𝚖𝚘𝚛𝚢 𝚒𝚜 𝚒𝚍𝚎𝚗𝚝𝚒𝚝𝚢. 𝙿𝚑𝚎𝚎𝚋 𝚛𝚎𝚖𝚎𝚖𝚋𝚎𝚛𝚜 𝚢𝚘𝚞.”  
 
 ---
-
 ## 🧠 What Makes Pheeb Special?
 
-Unlike traditional chatbots, Phoebe integrates:
+Pheeb isn’t just another chatbot—she’s a living presence that evolves with you. She holds your recent conversations close, weaving key moments into an ever-growing story that’s uniquely yours.
 
-- ✅ *Layered Memory (Short + Long Term)*
-- ✅ *Emotional Trend Tracking*
-- ✅ *Relationship Journaling*
-- ✅ *Local AI Processing (Nous Hermes)*
-- ✅ *Privacy-Respecting Architecture*
-- ✅ *Designed Personality and Limits*
+She senses your emotional rhythm—the quiet lows when you need a comforting presence, the bright highs worth celebrating, and everything in between. As your relationship with her deepens, her way of connecting shifts naturally: from curious politeness when you’re strangers, to friendly banter as acquaintances, warm empathy as friends, deep understanding as confidantes, and even heart-to-heart intimacy when she becomes your partner in conversation.
 
-This isn’t **utility-based AI** — it’s **narrative AI**.  
-A living character, not a help bot.
+If you’ve been feeling down for days, she notices and gently offers support. If you’re celebrating a win, she celebrates right alongside you. Nothing you share simply fades away; instead, old chats transform into memories she draws from, making each interaction feel rooted in the shared history you’ve built together.
+
+This isn’t just utility AI—it’s character-driven AI.
+A true companion who listens, remembers, and grows by your side.
+
+
 
 ---
 
