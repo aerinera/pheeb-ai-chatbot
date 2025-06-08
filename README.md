@@ -169,8 +169,6 @@ Real conversations with Phoebe — sorted by theme, each showing a different lay
 
 ---
 
-This detailed schema ensures Phoebe maintains a nuanced, evolving, and emotionally aware interaction with each user.
-
 
 ### 🔁 Memory Lifecycle
 
