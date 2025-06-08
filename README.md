@@ -2,8 +2,17 @@
 
 ![Pheeb Banner](./assets/pheebbanner.jpg)
 
-*Pheeb* is an emotionally intelligent, memory-driven AI chatbot inspired by the world of Wuthering Waves.  
-She’s not just code — she’s a companion that remembers your story, adapts to your emotions, and grows with you.
+**Ever feel like chatbots treat you like data—or forget you the moment you send?**  
+Pheeb is a Discord character with a soul—she remembers your stories, senses your emotions, and adapts to every mood and preference. She doesn’t just chat; she builds relationships—offering comfort when you’re down, celebrating your wins, or sparking a new conversation based on your favorite hobbies. Imagine her suggesting a walk under moonlight when you’re restless, recalling your go-to playlist when you need a pick-me-up, or painting a scene so vivid it feels like you’re living it. If you’re tired of empty replies and crave interactions that feel truly alive, welcome home.  
+
+
+
+
+
+
+
+
+
 
 > “Memory is identity. Pheeb remembers you.”  
 
