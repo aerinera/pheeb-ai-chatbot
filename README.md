@@ -204,14 +204,42 @@ This repository serves as a *project showcase*, not an open-source release.
 
 ---
 
-## 🔮 Future Roadmap
+## 🛠 Task List (Phoebe Project Dev Status)
 
-- 🧭 *Web Dashboard*: Visualize emotional data, memory graph, relationship evolution  
-- 🗣 *Voice Support*: Add TTS/STT layers for richer interactions  
-- 🔁 *Dialogue Continuity Engine*: Deeper memory threading and narrative arcs  
-- 🎭 *Multiple Personality Modes*: Switch between different emotional archetypes  
+**Phoebe is a single-character AI.**  
+The goal is to simulate emotionally-aware, context-sensitive, and memory-driven interactions through one persistent character.  
+This project is strictly built for **Discord only** — no plans for a web version or multi-character system.
 
 ---
+
+> **"Phoebe is not a bot, she's a character with continuity, emotion, and memory."**
+
+---
+
+### ✅ Completed
+- ✅ `conversation_history`: Real-time message logging  
+- ✅ `memory_summary`: Every 20 messages are summarized into long-term memory  
+- ✅ `memory_utils.py`: Handles AI summarization, automatic cleanup, and DB updates  
+- ✅ `memory_cleaner`: Memory cleanup automation integrated and functioning  
+- ✅ `database.py`: Supabase-powered schema with cache-supported CRUD  
+- ✅ `dialog_utils.py`: Adjusts conversation dynamically based on user personality and hobbies  
+- ✅ Discord Integration: Active message listener, responder, and real-time context tracker  
+
+---
+
+### 🔄 In Progress
+- 🔄 `emotional_trend`: Tracks emotional state over time  
+- 🔄 `relation_utils.py`: Records relationship dynamics and event-based memory influence  
+- 🔄 Latency Optimization: Current LLM Studio (local server) responses are slow, needs tuning  
+
+---
+
+### ⏳ Planned
+- ⏳ `emotional_inference`: Deeper analysis of emotions from messages and trends  
+- ⏳ `personality_adapter`: Modify Phoebe’s tone and behavior based on evolving memory and relationships  
+- ⏳ `evaluation_logs`: Track behavioral/memory effects for better debugging and testing  
+- ⏳ `prompt_finetuning`: Enhance LLM prompts for more human-like dialogue  
+
 
 ## 📖 Lore & Inspiration
 
