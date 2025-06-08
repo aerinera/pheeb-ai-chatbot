@@ -223,6 +223,3 @@ Pheeb isn’t a product. She’s an idea:
 This project lives in that question space — as a personal and creative exploration.
 
 ---
-
-*Made with heart by a curious developer who believes software can feel.*  
-`— baransaglam`
