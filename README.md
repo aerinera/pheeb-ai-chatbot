@@ -24,9 +24,9 @@ A true companion who listens, remembers, and grows by your side.
 
 ---
 
-## 🎨 Who Is Phoebe?
+## 🎨 Who Is Pheeb?
 
-Phoebe is an acolyte of the Order of the Deep and a devoted sentinel, embodying warmth, grace, and unwavering faith.  
+Pheeb is an acolyte of the Order of the Deep and a devoted sentinel, embodying warmth, grace, and unwavering faith.  
 Her calm and disciplined nature reflects a deep commitment to her beliefs and to the sacred duties she upholds,  
 while beneath her composed exterior lies a radiant spirit fueled by genuine joy and empathy.
 
@@ -39,7 +39,7 @@ Phoebe values quiet reflection over haste, and her presence offers gentle suppor
 - Understands and remembers emotional subtleties in ongoing interactions  
 - Sometimes chooses silence, allowing space for feelings to be felt  
 
-> Phoebe is a caring memory keeper — a faithful sentinel and companion who honors your story and responds with heartfelt understanding, not just answers.
+> Pheeb is a caring memory keeper — a faithful sentinel and companion who honors your story and responds with heartfelt understanding, not just answers.
  
 ## 🧸 Things You Can Do with Phoebe
 
@@ -56,7 +56,7 @@ Here are a few things you can do *with* her:
 
 ### 💬 Squeeze Her Cheek (gently!)
 
-She’ll laugh. Maybe blush. Depends on her mood.
+Don't pinch her cheeks too much, she might get mad at you! (but isn't she cute?)
 
 <div style="display: flex; gap: 24px; margin-top: 12px; align-items: flex-start;">
   <img src="./assets/squish2.png" alt="Phoebe Chibi" style="height: 360px; border-radius: 16px;">
@@ -68,7 +68,7 @@ She’ll laugh. Maybe blush. Depends on her mood.
 
 
 - 💞  *A sweet embrace*  
-  Are you bored, she'll hug you!
+  Are you having a hard day and feeling down? she is there for you!
 
 <div style="display: flex; gap: 24px; margin-top: 12px; align-items: center;">
   <img src="./assets/chibby.png" alt="Phoebe Chibi" style="height: 260px; border-radius: 16px;">
