@@ -183,18 +183,20 @@ Real conversations with Phoebe — sorted by theme, each showing a different lay
 
 ## ⚙ Technologies Behind Phoebe
 
-| Stack Element       | Description                                               |
-|---------------------|-----------------------------------------------------------|
-| *Python 3.13+*      | Core application logic, data handling, and utility modules|
-| *Supabase*          | PostgreSQL backend accessed asynchronously via API for managing conversation history, memory summaries, emotional trends, and user profiles |
-| *Nous Hermes 2.5*   | Locally hosted LLM running on LLM Studio for text summarization, emotional analysis, and dialogue generation |
-| *Discord API*       | Real-time chat interface enabling interaction between users and Phoebe bot |
-| *Asyncio*           | Asynchronous event loop for efficient, concurrent message processing |
-| *HTTPX*             | Async HTTP client used to communicate with the local LLM Studio server |
+| Stack Element              | Description                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|
+| *Python 3.13+*             | Core logic, database interaction, and AI memory utilities                   |
+| *Supabase (PostgreSQL)*   | Cloud-hosted async database for messages, summaries, and emotional states   |
+| *Nous Hermes 2.5 (Mistral)* | Lightweight, locally hosted LLM for summarization and emotion tagging       |
+| *LLM Studio*               | Local inference server managing Hermes model interaction                    |
+| *Discord API*              | Real-time interface for user communication                                  |
+| *Asyncio*                  | Non-blocking task and memory lifecycle scheduling                           |
+| *HTTPX*                    | Async HTTP client for calling the local AI server                           |
+| *JSON Schema (Function Output)* | Structured AI outputs for consistent memory and emotion parsing        |
+| *Internal Message Sweeper* | Handles summarization and pruning after every 30 messages                   |
+| *Logger* (e.g., loguru)    | Tracks system events, memory changes, and errors                            |
 
-All AI processing is executed *locally* on the LLM Studio server without relying on external or third-party AI services.
-
----
+> 🧠 All AI inference runs fully offline via LLM Studio, no external APIs are used.
 
 ## 🎯 Project Philosophy
 
