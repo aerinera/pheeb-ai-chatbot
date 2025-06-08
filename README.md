@@ -71,6 +71,16 @@ She’ll laugh. Maybe blush. Depends on her mood.
   <img src="./assets/chibby.png" alt="Phoebe Chibi" style="height: 260px; border-radius: 16px;">
   <img src="./assets/hugg.png" alt="Chat Snapshot" style="height: 300px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.1);">
 </div>
+<br><br><br><br>
+
+
+-   ### Chat with her 
+she can talk to you about anything and she doesn't forget you and she has a structure that remembers your conversations and
+reacts according to your relationship status and your emotions, can make emotional analysis and approaches you accordingly
+
+<div style="display: flex; gap: 24px; margin-top: 12px; align-items: center;">
+  <img src="./assets/pheeb1.png" alt="Phoebe" style="height: 400px; border-radius: 16px;">
+</div>
 <br><br>
 
 ---
