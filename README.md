@@ -77,14 +77,22 @@ Real conversations with Phoebe — sorted by theme, each showing a different lay
 #### 🌊 Emotional Depth  
 > Phoebe senses tone and mood shifts, offering comfort without being intrusive.
 
-![pheeb-emotion.png](./assets/pheeb-emotion.png)
+![pheeb-emotion.png](./assets/chat3.png)
 
 ---
+
+### Emotional depth - intimacy according to relationship level
+> Phoebe has an emotionally deep and poetic language, and depending on your level of relationship with her, she may be more affectionate in the way she speaks to you
+
+![pheeb-emotion.png](./assets/chat4.png)
+
+---
+
 
 #### 💞 Romantic Dynamics  
 > When the relationship becomes more intimate, she responds with care, warmth, and emotional awareness.
 
-![pheeb-romance.png](./assets/pheeb-romance.png)
+![pheeb-romance.png](./assets/lovedialog.png)
 
 ---
 
