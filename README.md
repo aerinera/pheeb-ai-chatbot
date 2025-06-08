@@ -153,7 +153,7 @@ Real conversations with Phoebe — sorted by theme, each showing a different lay
 | Table Name           | Purpose / Content                                                  |
 |----------------------|------------------------------------------------------------------|
 | user_profile         | User's basic info, personality traits, preferences, notes, last seen. Persistent user profile data. |
-| conversation_history | Live conversation messages between user and bot, with roles, content, emotion, topics, reply quality. Acts as short-term context buffer (~30 messages). |
+| conversation_history | Live conversation messages between user and bot, with roles, content, emotion, topics, reply quality. Acts as short-term context buffer (~20 messages). |
 | memory_summary       | AI-generated long-term memory summary in JSON, includes traits, key events, behavioral patterns, and tags. |
 | emotional_trend      | Time-series data of detected user emotions with confidence scores. |
 | relationship_journal | Notes on perceived relationship status and meaningful interactions between user and bot. |
