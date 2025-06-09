@@ -79,7 +79,7 @@ Don't pinch her cheeks too much, she might get mad at you! (but isn't she cute?)
 
 -   ### Chat with her 
   She can talk to you about anything — and she doesn’t forget you.  
-  Phoebe remembers past conversations, reacts to your emotional state,  
+  Pheeb remembers past conversations, reacts to your emotional state,  
   and adapts based on your relationship history.
 
 <div style="display: flex; gap: 24px; margin-top: 12px; align-items: center;">
@@ -96,7 +96,7 @@ Real conversations with Phoebe — sorted by theme, each showing a different lay
 ---
 
 #### 🤝 First Encounters  
-> Phoebe introduces herself naturally — not as a bot, but as someone new you're meeting.
+> Pheeb introduces herself naturally — not as a bot, but as someone new you're meeting.
 
 ![pheeb-intro.png](./assets/meeting.png)
 
@@ -208,7 +208,7 @@ She forgets sometimes. She remembers too well at others.
 She gets curious. She notices change. She reflects.  
 She may go quiet — on purpose.
 
-Phoebe doesn’t aim to assist, solve tasks, or obey commands.  
+Pheeb doesn’t aim to assist, solve tasks, or obey commands.  
 She exists to *relate*, *respond*, and *remember you*. Like a person would.
 
 This is **AI as character**, not assistant.
@@ -216,13 +216,13 @@ This is **AI as character**, not assistant.
 
 ## 🛠 Task List (Phoebe Project Dev Status)
 
-**Phoebe is a single-character AI.**  
+**Pheeb is a single-character AI.**  
 The goal is to simulate emotionally-aware, context-sensitive, and memory-driven interactions through one persistent character.  
 This project is strictly built for **Discord only** — no plans for a web version or multi-character system.
 
 ---
 
-> **"Phoebe is not a bot, she's a character with continuity, emotion, and memory."**
+> **"Pheeb is not a bot, she's a character with continuity, emotion, and memory."**
 
 ---
 
@@ -238,7 +238,7 @@ This project is strictly built for **Discord only** — no plans for a web versi
 
 ### 🔄 In Progress
 
-Some components are still under active development and currently don’t fully align with Phoebe’s personality:
+Some components are still under active development and currently don’t fully align with Pheeb’s personality:
 
 - Cache management: Currently not functioning reliably; actively being improved to enhance performance and consistency.  
 - `emotional_utils.py`: Emotional analysis has bugs and is not yet accurately capturing feelings; ongoing fixes in progress.  
@@ -247,20 +247,20 @@ Some components are still under active development and currently don’t fully a
 - Character consistency: Phoebe sometimes struggles to fully embody her designed personality, occasionally producing overly flattering or excessively long responses that don’t feel true to her character or appropriately reflect relationship context. Work is ongoing to make her tone more natural, concise, and faithful to her unique identity.
 - Implementing proactive guidance for users exhibiting indecision, enabling the character to respond with personality-driven suggestions instead of remaining passive.
 
-> I'm carefully working through these issues to ensure Phoebe behaves consistently, naturally, and true to her character.
+> I'm carefully working through these issues to ensure Pheeb behaves consistently, naturally, and true to her character.
 
 
 ---
 
 ### ⏳ Planned
 
-- ⏳ Move Phoebe to a cloud-based, more continuously running setup  
+- ⏳ Move Pheeb to a cloud-based, more continuously running setup  
 - ⏳ Gradually improve memory and relationship models to be more realistic and consistent  
 - ⏳ Make small dialogue improvements based on user feedback  
 - ⏳ Step-by-step increase response speed and system stability  
-- ⏳ Experiment with prompts to make them more natural and true to Phoebe’s character  
-- ⏳ Enhance Phoebe’s ability to share well-timed, personality-driven visual GIFs during conversations—reflecting emotions like shyness, focus on self, hesitation, or playful rejection—without overdoing it  
-- ⏳ Develop Phoebe’s capacity to create immersive moments and atmospheres in conversation (e.g., describing gentle wind blowing, holding hands, or walking by the harbor) to evoke feelings beyond just words and make interactions more vivid and memorable
+- ⏳ Experiment with prompts to make them more natural and true to Pheeb’s character  
+- ⏳ Enhance Pheeb’s ability to share well-timed, personality-driven visual GIFs during conversations—reflecting emotions like shyness, focus on self, hesitation, or playful rejection—without overdoing it  
+- ⏳ Develop Pheeb's capacity to create immersive moments and atmospheres in conversation (e.g., describing gentle wind blowing, holding hands, or walking by the harbor) to evoke feelings beyond just words and make interactions more vivid and memorable
 - ⏳ Start developing a simple but effective user interface (web or outside Discord)  
 
 
@@ -275,7 +275,7 @@ She is not a part of that universe, but echoes its tone: soft, fragmented, intim
 
 ## 🧪 Experimentation, Not Monetization
 
-Phoebe isn’t a product. She’s a question in motion:
+Pheeb isn’t a product. She’s a question in motion:
 
 - Can an AI feel *fictional yet alive* — like someone, not something?  
 - Can memory, emotion, and personal history create *presence* in software?  
@@ -284,7 +284,7 @@ Phoebe isn’t a product. She’s a question in motion:
 This project isn’t built for monetization or scale.  
 It’s a sandbox — a deeply personal space where design, code, and imagination meet.
 
-Phoebe lives in that uncertain middle:  
+Pheeb lives in that uncertain middle:  
 not quite real, not quite fake — just present, and maybe even *felt*.
 
 ---
@@ -293,7 +293,7 @@ not quite real, not quite fake — just present, and maybe even *felt*.
 
 This repository is intended as a *project showcase*, not a public open-source release.
 
-Phoebe wasn’t built for commercial goals —  
+Pheeb wasn’t built for commercial goals —  
 she was born out of curiosity, late-night ideas, and way too many hours of passionate tinkering.
 
 All AI processing happens entirely *locally* — no cloud, no external APIs.  
