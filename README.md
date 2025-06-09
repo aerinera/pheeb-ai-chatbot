@@ -41,7 +41,7 @@ Phoebe values quiet reflection over haste, and her presence offers gentle suppor
 
 > Pheeb is a caring memory keeper — a faithful sentinel and companion who honors your story and responds with heartfelt understanding, not just answers.
  
-## 🧸 Things You Can Do with Phoebe
+## 🧸 Things You Can Do with Pheeb
 
 Here are a few things you can do *with* her:
 
