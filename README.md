@@ -305,7 +305,7 @@ emotional state modeling, and architectural decisions that are not easily abstra
 - Local-first by nature — memory, emotion, and presence matter here
 
 That said, who knows what the future holds?  
-If Phoebe ever grows into something bigger with proper support and a wider purpose,  
+If Pheeb ever grows into something bigger with proper support and a wider purpose,  
 I’d love to revisit the idea of opening her up to the world.
 
 Thanks for understanding — truly💛.
