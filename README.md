@@ -91,7 +91,7 @@ Don't pinch her cheeks too much, she might get mad at you! (but isn't she cute?)
 
 ## 📸 Dialogue Snapshots
 
-Real conversations with Phoebe — sorted by theme, each showing a different layer of her personality and memory system.
+Real conversations with Pheeb — sorted by theme, each showing a different layer of her personality and memory system.
 
 ---
 
