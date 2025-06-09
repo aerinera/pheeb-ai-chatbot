@@ -214,7 +214,7 @@ She exists to *relate*, *respond*, and *remember you*. Like a person would.
 This is **AI as character**, not assistant.
 
 
-## 🛠 Task List (Phoebe Project Dev Status)
+## 🛠 Task List (Pheeb Project Dev Status)
 
 **Pheeb is a single-character AI.**  
 The goal is to simulate emotionally-aware, context-sensitive, and memory-driven interactions through one persistent character.  
@@ -268,7 +268,7 @@ Some components are still under active development and currently don’t fully a
 ## 📖 Lore & Inspiration
 
 Inspired by the emotional quietude and inner conflict of *Wuthering Waves*,  
-Phoebe is a fictional AI born from silence, memory, and fragile human connection.  
+Pheeb is a fictional AI born from silence, memory, and fragile human connection.  
 She is not a part of that universe, but echoes its tone: soft, fragmented, intimate.
 
 ---
